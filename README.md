@@ -12,6 +12,14 @@ This repository contains teaching materials and supportive resources for CBSE Cl
 - Unit 3: Society, Law, and Ethics — digital footprint, cyber ethics, data protection
 
 ## What this repo provides
+- **Level-based Notebooks (Q&A)**:
+  - `1-beginner.ipynb`: 10 basic Python questions with solutions.
+  - `2-intermediate.ipynb`: 10 intermediate Python questions with solutions.
+  - `3-advanced.ipynb`: 10 advanced Python questions with solutions.
+- **Questions-Only Notebooks**:
+  - `1-beginners-questions.ipynb`: 10 basic Python questions (no solutions).
+  - `2-intermediate-questions.ipynb`: 10 intermediate Python questions (no solutions).
+  - `3-advanced-questions.ipynb`: 10 advanced Python questions (no solutions).
 - Lesson notes and concise summaries for each chapter
 - Example Python programs and solved exercises
 - Practical exercises and sample viva-voce questions
